@@ -1,6 +1,9 @@
-A simple Django project to test coverage.py 3.7.1.
+A simple Django project to test coverage.py
 
-Note: Django's FastCGI support requires the "flup" package.
+Notes:
+
+- Tested with Coverage 3.7.1 and Python 2.7.5 on Linux Mint
+- Django's FastCGI support requires the "flup" package.
 
 # setup
 
